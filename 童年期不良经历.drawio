@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T07:27:30.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="rgEYo4KHGI891OzuvO1P" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T07:31:05.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="s1Y45wY_zPnLyRRh9K8r" version="24.2.0" type="github">
   <diagram name="Page-1" id="ZmrI2E8jIGjipDStuWAG">
-    <mxGraphModel dx="996" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="687" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LtjJ-iYpBrT9Myh8KGnN-1" value="童年期不良经历(ACEs&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="260" width="120" height="50" as="geometry" />
+          <mxGeometry x="160" y="260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LtjJ-iYpBrT9Myh8KGnN-2" value="虐待" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="190" width="96" height="40" as="geometry" />
+          <mxGeometry x="314" y="180" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtjJ-iYpBrT9Myh8KGnN-3" value="家庭功能失调" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtjJ-iYpBrT9Myh8KGnN-4" value="忽视" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="70" height="40" as="geometry" />
+          <mxGeometry x="440" y="130" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtjJ-iYpBrT9Myh8KGnN-5" value="虐待" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="250" width="70" height="40" as="geometry" />
+          <mxGeometry x="440" y="230" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LtjJ-iYpBrT9Myh8KGnN-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtjJ-iYpBrT9Myh8KGnN-2" target="LtjJ-iYpBrT9Myh8KGnN-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,6 +41,54 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="340" as="sourcePoint" />
             <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-10" value="身体忽视" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-11" value="情感忽视" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtjJ-iYpBrT9Myh8KGnN-4" target="LtjJ-iYpBrT9Myh8KGnN-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtjJ-iYpBrT9Myh8KGnN-4" target="LtjJ-iYpBrT9Myh8KGnN-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-14" value="身体虐待" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-16" value="性虐待" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-17" value="情感虐待" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-19" value="虐待" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtjJ-iYpBrT9Myh8KGnN-19" target="LtjJ-iYpBrT9Myh8KGnN-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtjJ-iYpBrT9Myh8KGnN-19" target="LtjJ-iYpBrT9Myh8KGnN-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtjJ-iYpBrT9Myh8KGnN-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LtjJ-iYpBrT9Myh8KGnN-17" target="LtjJ-iYpBrT9Myh8KGnN-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
